@@ -3,8 +3,8 @@
 **Vzdělávací roguelike střílečka o počítačových sítích.**
 Autor: Jakub Steinz · předmět 4ITE PHR – EduGame
 
-▶ **Hrát online:** https://coffee2028.github.io/packet-dungeon/
-📦 **Repozitář:** https://github.com/Coffee2028/packet-dungeon
+▶ **Hrát online:** https://coffee2028.github.io/edugame/
+📦 **Repozitář:** https://github.com/Coffee2028/edugame
 
 ---
 
